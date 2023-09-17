@@ -9,6 +9,9 @@ text-decoration: none;
 margin-right: 50px;
 color: blue;
 }
+a:active{
+    color: white;
+}
 #Home{
 padding-left: 50px;
 padding-right: 50px;
@@ -27,12 +30,27 @@ height: 300px;
     color: blue;
     font-weight: 600;
 }
+#Resume{
+font-weight: bolder;
+font-size: xx-large;
+color: blue;
+}
+#Contact{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: blue;
+}
+#Work{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: blue;
+}
 .Enquires, .Footer{
 font-family: Arial, Helvetica, sans-serif;
 font-weight: 300;
 color: blue;
 }
-.Resume ,.Contact, .Work{
+.Name, .Email, .Message, .Submit{
 font-weight: bolder;
 font-size: xx-large;
 color: blue;    
