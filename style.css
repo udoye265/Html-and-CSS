@@ -1,6 +1,9 @@
+body{
+background-color: black;
+font-family: 'Roboto', sans-serif;
+}
 nav{ 
 display: inline;
-font-family: 'Roboto', sans-serif;
 text-align: center;
 font-weight: bolder
 }
@@ -54,8 +57,5 @@ color: blue;
 font-weight: bolder;
 font-size: xx-large;
 color: blue;    
-}
-body{
-background-color: black;
 }
 
